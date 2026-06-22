@@ -1,0 +1,8 @@
+[
+  { "name": "Vienna", "lat": 48.2082, "lon": 16.3738, "type": "city" },
+  { "name": "Salzburg", "lat": 47.8095, "lon": 13.0550, "type": "city" },
+  { "name": "Klagenfurt", "lat": 46.6247, "lon": 14.3053, "type": "city" },
+  { "name": "Bled", "lat": 46.3692, "lon": 14.1136, "type": "lake" },
+  { "name": "Maribor", "lat": 46.5547, "lon": 15.6459, "type": "city" },
+  { "name": "Schladming", "lat": 47.3923, "lon": 13.6861, "type": "mountain" }
+]
